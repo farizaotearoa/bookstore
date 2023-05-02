@@ -1,2 +1,2 @@
-# bookstore
+# Bookstore
 Bookstore Rest API
